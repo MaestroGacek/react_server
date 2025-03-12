@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b263017.css",
+    "main.js": "/static/js/main.a3ba2ae0.js",
+    "static/js/198.92253f3d.chunk.js": "/static/js/198.92253f3d.chunk.js",
+    "static/media/VanockaSpecial.jpeg": "/static/media/VanockaSpecial.cefb38f234d4153a2041.jpeg",
+    "static/media/Pozadi.jpeg": "/static/media/Pozadi.0da97ebd74062ebe2a8c.jpeg",
+    "static/media/VanockaClassic.jpg": "/static/media/VanockaClassic.c24542bd4079a6fff375.jpg",
+    "static/media/Loupak.jpg": "/static/media/Loupak.6dd86a82f3ef3a675b13.jpg",
+    "static/media/VanockaTradicni.jpg": "/static/media/VanockaTradicni.d69855ef79104f72b9e9.jpg",
+    "static/media/Bochanek.jpg": "/static/media/Bochanek.83641db3e1130b7a74e8.jpg",
+    "static/media/Logo.png": "/static/media/Logo.7a137757c0a01b87a55a.png",
+    "index.html": "/index.html",
+    "main.9b263017.css.map": "/static/css/main.9b263017.css.map",
+    "main.a3ba2ae0.js.map": "/static/js/main.a3ba2ae0.js.map",
+    "198.92253f3d.chunk.js.map": "/static/js/198.92253f3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b263017.css",
+    "static/js/main.a3ba2ae0.js"
+  ]
+}
