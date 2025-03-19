@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9b263017.css",
-    "main.js": "/static/js/main.a3ba2ae0.js",
+    "main.js": "/static/js/main.3399c8fb.js",
     "static/js/198.92253f3d.chunk.js": "/static/js/198.92253f3d.chunk.js",
     "static/media/VanockaSpecial.jpeg": "/static/media/VanockaSpecial.cefb38f234d4153a2041.jpeg",
     "static/media/Pozadi.jpeg": "/static/media/Pozadi.0da97ebd74062ebe2a8c.jpeg",
@@ -12,11 +12,11 @@
     "static/media/Logo.png": "/static/media/Logo.7a137757c0a01b87a55a.png",
     "index.html": "/index.html",
     "main.9b263017.css.map": "/static/css/main.9b263017.css.map",
-    "main.a3ba2ae0.js.map": "/static/js/main.a3ba2ae0.js.map",
+    "main.3399c8fb.js.map": "/static/js/main.3399c8fb.js.map",
     "198.92253f3d.chunk.js.map": "/static/js/198.92253f3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b263017.css",
-    "static/js/main.a3ba2ae0.js"
+    "static/js/main.3399c8fb.js"
   ]
 }
